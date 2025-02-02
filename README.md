@@ -1,0 +1,2 @@
+# whisperai
+Whisper transcription model
